@@ -1,4 +1,4 @@
-# CSX42: Assignment 2
+## Implementation of Oberver Pattern to demonstrate a source control using oberver pattern
 ## Name: Shivkumar Subhash Kothale
 
 Using 1 Slack Day
